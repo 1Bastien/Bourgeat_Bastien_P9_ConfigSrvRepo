@@ -5,4 +5,4 @@ Il est utilisé par un serveur de configuration Spring, qui permet aux microserv
 
 ## Dépôt des microservices
 
-[Lien vers le dépôt des microservices](https://github.com/1Bastien/Bourgeat_Bastien_P9_Java))
+[Lien vers le dépôt des microservices](https://github.com/1Bastien/Bourgeat_Bastien_P9_Java)
